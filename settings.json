@@ -1,0 +1,43 @@
+{
+    "cSpell.enabledLanguageIds": [
+        "csharp",
+        "go",
+        "javascript",
+        "javascriptreact",
+        "markdown",
+        "php",
+        "plaintext",
+        "text",
+        "typescript",
+        "typescriptreact",
+        "yml"
+    ],
+    "cSpell.maxNumberOfProblems": 200,
+    "cSpell.minWordLength": 3,
+    "editor.dragAndDrop": true,
+    "editor.quickSuggestionsDelay": 0,
+    "editor.renderWhitespace": "boundary",
+    "editor.wordBasedSuggestions": true,
+    "editor.wordWrap": "on",
+    "explorer.openEditors.visible": 15,
+    "files.associations": {
+        "*.pl": "prolog"
+    },
+    "files.exclude": {
+        "**/*.pyc": true,
+        "**/output/**": true
+    },
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/_site/**": true,
+        "**/node_modules/**": true
+    },
+    "python.pythonPath": "/usr/local/bin/python3",
+    "terminal.integrated.scrollback": 5000,
+    "vsicons.dontShowNewVersionMessage": true,
+    "vsicons.projectDetection.disableDetect": true,
+    "window.newWindowDimensions": "inherit",
+    "window.titleBarStyle": "native",
+    "window.zoomLevel": 0,
+    "workbench.iconTheme": "vs-seti"
+}
