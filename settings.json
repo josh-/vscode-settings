@@ -16,6 +16,7 @@
     ],
     "cSpell.maxNumberOfProblems": 200,
     "cSpell.minWordLength": 3,
+    "editor.minimap.enabled": false,
     "editor.dragAndDrop": true,
     "editor.quickSuggestionsDelay": 0,
     "editor.renderWhitespace": "boundary",
