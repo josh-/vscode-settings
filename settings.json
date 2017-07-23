@@ -42,7 +42,7 @@
     "window.restoreWindows": "all",
     "window.titleBarStyle": "native",
     "window.zoomLevel": 0,
-    "workbench.iconTheme": "vs-seti"
+    "workbench.iconTheme": "simple-icons",
     "workbench.colorTheme": "Xcode_default",
     "workbench.editor.swipeToNavigate": true,
     "workbench.startupEditor": "newUntitledFile"
