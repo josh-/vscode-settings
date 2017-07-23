@@ -22,9 +22,6 @@
     "editor.wordBasedSuggestions": true,
     "editor.wordWrap": "on",
     "explorer.openEditors.visible": 15,
-    "files.associations": {
-        "*.pl": "prolog"
-    },
     "files.exclude": {
         "**/*.pyc": true,
         "**/output/**": true
