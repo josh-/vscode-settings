@@ -22,6 +22,7 @@
     "editor.wordBasedSuggestions": true,
     "editor.wordWrap": "on",
     "explorer.openEditors.visible": 15,
+    "extensions.autoUpdate": true,
     "files.exclude": {
         "**/*.pyc": true,
         "**/output/**": true
