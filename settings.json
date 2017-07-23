@@ -38,6 +38,8 @@
     "vsicons.dontShowNewVersionMessage": true,
     "vsicons.projectDetection.disableDetect": true,
     "window.newWindowDimensions": "inherit",
+    "window.nativeTabs": true,
+    "window.restoreWindows": "all",
     "window.titleBarStyle": "native",
     "window.zoomLevel": 0,
     "workbench.iconTheme": "vs-seti"
