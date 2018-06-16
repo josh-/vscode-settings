@@ -84,11 +84,6 @@
         "command": "workbench.action.terminal.kill"
     },
     {
-        "key": "ctrl+shift+k",
-        "command": "terminalHere.create"
-    }
-    ,
-    {
         "key": "cmd+r",
         "command": "workbench.action.debug.run"
     }
